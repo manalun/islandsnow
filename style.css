@@ -3,3 +3,13 @@
   box-shadow: none;
   border: none;
 }
+
+.ui.center.segment {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.centermenu.menu {
+  box-shadow: none;
+  border: none;
+}
