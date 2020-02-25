@@ -8,3 +8,9 @@
   box-shadow: none;
   border: none;
 }
+
+.ui.three.column.grid.container {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
